@@ -7,4 +7,4 @@ A simple todo list on webpage using HTML, CSS, JavaScript
 
 ![preview image](https://github.com/shinhy2026/ToDo-List/blob/main/preview.png?raw=true)
 
-Made with help of Raspberry Pi project: To-do list
+Built with help of [Raspberry Pi project: To-do list](https://projects.raspberrypi.org/en/projects/cd-intermediate-javascript-sushi/7).
